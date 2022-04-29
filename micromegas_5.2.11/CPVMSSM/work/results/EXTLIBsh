@@ -1,0 +1,1 @@
+export EXTLIB="$CALCHEP/../CPVMSSM/lib/aLib.a"

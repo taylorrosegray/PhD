@@ -1,0 +1,13 @@
+import model DarkPhoton_UFO
+generate e- nt > e- nt Ap
+output DarkPhoton
+launch
+set nevents = 10k
+set ebeam1 4.
+set ebeam2 171.
+set use_syst False
+set lpp 0
+set ptl -1
+set etal -1
+set MAp scan:[0.01,0.1,0.2,0.5,1.0,1.5]
+set WAp auto

@@ -1,0 +1,5 @@
+# file to improve default parameters
+alphad	0.5
+eps	1.0E-11
+mAp	3.0E+3
+mdm	1.0E+3

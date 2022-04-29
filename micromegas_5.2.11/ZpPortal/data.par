@@ -1,0 +1,6 @@
+# file to improve default parameters
+
+gZp     1E-4  #  Coupling of Zp to SM quarks and leptons
+gZpDm   1E-1
+Mdm     1.0         # mass of Dark Matter
+

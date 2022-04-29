@@ -1,0 +1,12 @@
+Axial-Vector Z-prime Model
+ Lagrangian 
+P1   |P2     |P3  |P4   |>   Factor        <|> dLagrangian/ dA(p1) dA(p2) dA(p3)                       <|
+e    |E      |Zp  |     |1                  |G(m3)*(vfe-afe*G5)
+u    |U      |Zp  |     |1                  |G(m3)*(vfu-afu*G5)
+d    |D      |Zp  |     |1                  |G(m3)*(vfd-afd*G5)
+c    |C      |Zp  |     |1                  |G(m3)*(vfc-afc*G5)
+s    |S      |Zp  |     |1                  |G(m3)*(vfs-afs*G5)
+b    |B      |Zp  |     |1                  |G(m3)*(vfb-afb*G5)
+t    |T      |Zp  |     |1                  |G(m3)*(vft-aft*G5)
+~dm  |~Dm    |Zp  |     |1                  |G(m3)*(vchi-achi*G5)
+=========================================================================================================

@@ -1,0 +1,6 @@
+# Channels which contribute to 1/(omega) more than 1%.
+# Absolute contributions are displayed
+  4.0E+01 ~dm ~Dm ->e E 
+  2.0E+01 ~dm ~Dm ->ne Ne 
+  2.0E+01 ~dm ~Dm ->nm Nm 
+  2.0E+01 ~dm ~Dm ->nl Nl 

@@ -1,0 +1,37 @@
+import model DMsimp_s_spin1
+define darkmatter xc
+generate relic_density
+output ScalarDM_madDM_DMsimp_s_spin1_testing/mdm1.000e+00
+launch ScalarDM_madDM_DMsimp_s_spin1_testing/mdm1.000e+00
+set MXc 1.000e+00
+set MY1 3.000e+00
+set gAd11 0.0
+set gAu11 0.0
+set gAd22 0.0
+set gAu22 0.0
+set gAd33 0.0
+set gAu33 0.0
+set gAu31 0.0
+set gAd31 0.0
+set gVd11 0.0
+set gVu11 0.0
+set gVd22 0.0
+set gVu22 0.0
+set gVd33 0.0
+set gVu33 0.0
+set gVl11 scan1:[10**(-7.399e+00+i*(-3.991e-01--7.399e+00)/15) for i in range(0,15,1)]
+set gVl22 0.0
+set gVl33 0.0
+set gVu31 0.0
+set gVd31 0.0
+set gAl11 0.0
+set gAl22 0.0
+set gAl33 0.0
+set gnu11 0.0
+set gnu22 0.0
+set gnu33 0.0
+set gVXc 5.013e+00
+set gVXd 0.0
+set gAXd 0.0
+set gVu31 0.0
+set gVd31 0.0

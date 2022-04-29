@@ -1,0 +1,23 @@
+# compiler Flags
+CC = clang
+CFLAGS = -g -fsigned-char -std=gnu99 -fPIC
+HX11 = 
+LX11 = -lX11
+lDL = -ldl 
+SHARED = -dynamiclib
+SONAME = -install_name 
+SO = so
+SNUM = -DNUM_LONG_LONG
+
+FC = gfortran 
+FFLAGS = -fno-automatic
+RANLIB = ranlib -c
+lFort = 
+lQuad = 
+CXX=clang++    
+CXXFLAGS = -g -fPIC 
+CALCHEP = /Users/Taylor/Documents/PhD/Code/micromegas_5.2.11/CalcHEP_src
+UNAME = Darwin
+export CC CFLAGS  lDL LX11 SHARED SONAME SO FC FFLAGS RANLIB CXX CXXFLAGS lFort
+
+

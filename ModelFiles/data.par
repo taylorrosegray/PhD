@@ -1,0 +1,18 @@
+# file to improve default parameters
+
+MZp	1.0e-3
+Mdm	1.0e5
+vchi	1.0e-5
+achi    1.0e-5
+afu     1.0e-9
+vfu     1.0e-9
+afd     1.0e-9
+vfd     1.0e-9
+afc     1.0e-9
+vfc     1.0e-9
+afs     1.0e-9
+vfs	1.0e-9
+aft     1.0e-9
+vft	1.0e-9
+afb     1.0e-9
+vfb	1.0e-9

@@ -1,0 +1,32 @@
+scalar DM simplified model
+ Constraints
+ Name  |  Expression                                                                                <|
+CW     |MW/MZ           % on-shell cos of the Weinberg angle
+SW     |sqrt(1-CW^2)    % sin of the Weinberg angle
+LamQCD |initQCD5(alfSMZ,McMc,MbMb,Mtp)
+GF     |EE^2/(2*SW*MW)^2/Sqrt2        % Fermi constant
+x1x0           |gSM                                                                                                            % Ap   b~   b     coupling.
+x2x0           |gSM                                                                                                            % Ap   c~   c     coupling.
+x3x0           |gSM                                                                                                            % Ap   d~   d     coupling.
+x4x0           |gSM                                                                                                            % Ap   e+   e-    coupling.
+x5x0           |gSM                                                                                                            % Ap   mu+  mu-   coupling.
+x6x0           |gSM                                                                                                            % Ap   s~   s     coupling.
+x7x0           |gSM                                                                                                            % Ap   ta+  ta-   coupling.
+x8x0           |gSM                                                                                                            % Ap   t~   t     coupling.
+x9x0           |gSM                                                                                                            % Ap   u~   u     coupling.
+x10x0          |-1                                                                                                             % Ap   Xv   Xv~   coupling.
+x10x1          |-b7I                                                                                                           
+x10x2          |-b7I                                                                                                           
+x10x3          |b7R                                                                                                            
+x10x4          |-b7R                                                                                                           
+x10x5          |-b6I                                                                                                           
+x10x6          |-b6I                                                                                                           
+x10x7          |b6I                                                                                                            
+x10x8          |b6I                                                                                                            
+x10x9          |-b5                                                                                                            
+x10x10         |b5                                                                                                             
+x10x11         |b6R                                                                                                            
+x10x12         |b6R                                                                                                            
+x10x13         |b6R                                                                                                            
+x10x14         |b6R          
+========================================================================================================================                                                                                               

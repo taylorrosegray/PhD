@@ -1,0 +1,9 @@
+# Channels which contribute to 1/(omega) more than 1%.
+# Absolute contributions are displayed
+  1.5E-08 ~dm ~DM ->u u~ 
+  1.5E-08 ~dm ~DM ->c c~ 
+  1.2E-08 ~dm ~DM ->e- e+ 
+  1.2E-08 ~dm ~DM ->mu- mu+ 
+  1.1E-08 ~dm ~DM ->ta- ta+ 
+  3.8E-09 ~dm ~DM ->d d~ 
+  3.8E-09 ~dm ~DM ->s s~ 

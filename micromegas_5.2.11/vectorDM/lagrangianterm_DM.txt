@@ -1,0 +1,1 @@
+-b7I*(eps(p2,m1,m2,m3)+eps(p3,m1,m2,m3))+b7R*I*(eps(p2,m1,m2,m3)-eps(p3,m1,m2,m3))-b6I*(m1.m2*p2.m3+m1.m2*p3.m3)+b6I*(m1.m3*p2.m2+m1.m3*p3.m2)+b5*(-m2.m3*p2.m1+m2.m3*p3.m1)+b6R*I*(p2.m2*m1.m3+p2.m3*m1.m2+p3.m2*m1.m3+p3.m3*m1.m2)
